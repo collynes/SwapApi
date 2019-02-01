@@ -3,9 +3,11 @@ Create a web interface (styling not important) that queries the SWAPI API (Do no
 -Home page loads 10 characters 
 Session is managed by local storage
 
-============================================================================================
+===========================================================================
 ![alt text](https://github.com/collynes/SwapApi/blob/master/LIST.PNG)
 
+
+===========================================================================
 On click on an item on the list,another view show's up with details as below
 
 
